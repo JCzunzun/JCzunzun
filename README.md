@@ -100,9 +100,9 @@ Con experiencia en proyectos backend, frontend y mobile, me caracterizo por:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JCzunzun&show_icons=true&theme=radical&count_private=true" alt="Stats" />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=-JCzunzun&theme=radical" 
-    alt="GitHub Streak" 
-  />
+  src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&date_format=M%20j%5B%2C%20Y%5D" 
+  alt="GitHub Streak Alternative" 
+    />
 </div>
 
 ---
