@@ -98,8 +98,8 @@ Con experiencia en proyectos backend, frontend y mobile, me caracterizo por:
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&count_private=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JCzunzun&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=-JCzunzun&theme=radical" alt="Streak" />
 </div>
 
 ---
@@ -117,6 +117,6 @@ Con experiencia en proyectos backend, frontend y mobile, me caracterizo por:
 ## 📫 Contáctame
 
 - ✉️ **Email:** juancamilozng@gmail.com
-- 🌐 **LinkedIn:** [\[linkedin.com/in/camilo-zuniga99\]](https://www.linkedin.com/in/camilo-zuniga99/)
+- 🌐 **LinkedIn:** [linkedin.com/in/camilo-zuniga99](https://www.linkedin.com/in/camilo-zuniga99/)
 
 ¡Gracias por visitar mi perfil! Si te interesa colaborar o tienes alguna pregunta, no dudes en escribirme. 😊  
