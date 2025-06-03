@@ -117,6 +117,6 @@ Con experiencia en proyectos backend, frontend y mobile, me caracterizo por:
 ## 📫 Contáctame
 
 - ✉️ **Email:** juancamilozng@gmail.com
-- 🌐 **LinkedIn:** [linkedin.com/in/camilo-zuniga99]
+- 🌐 **LinkedIn:** [\[linkedin.com/in/camilo-zuniga99\]](https://www.linkedin.com/in/camilo-zuniga99/)
 
 ¡Gracias por visitar mi perfil! Si te interesa colaborar o tienes alguna pregunta, no dudes en escribirme. 😊  
