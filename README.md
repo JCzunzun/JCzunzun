@@ -13,7 +13,7 @@
 
 <!-- Banner / Encabezado -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/master/assets/banner.gif" 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnI3d3BkZWxyc2tkcWpyb3JldG9tM3diYnFuZDdjYm51c3MzbjV2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
        alt="Banner" width="100%" />
 </p>
 
